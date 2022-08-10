@@ -16,7 +16,7 @@
   </div>
 
    <div class="sc">
-    <a type="button" class="btn btn-lg btn-warning" href="index.php" >MUY PRONTO</a>
+    <a type="button" class="btn btn-lg btn-warning" href="index.html" >MUY PRONTO</a>
      </div>
      <div id="bottomMenu">
         <a href="https://twitter.com/MineCheryES">
